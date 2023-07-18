@@ -1,8 +1,10 @@
 Olá, seja bem vindo a minha conta GitHub!
 
-Sou estudante de Análise e Desenvolvimento de Sistema e tenho formação Desenvolvedor Java Full Stack Jr.
+Sou formado em Análise e Desenvolvimento de Sistema, Desenvolvimento Full Stack na linguagem Java e tenho experiência com Analise de Dados.
 
-Estou passando por uma transição de carreira. De técnico em Segurança do Trabalho à Desenvolvedor de Sistema ou Programador. B
+Minha última experiência profissional prestando serviços para o Hospital Israelita Albert Einstein, fazendo parte de núcleo BI do Setor Big Data & Analytics. Em meu dia a dia execuatava atividades com Visual Studio Data Tools, Microsoft Server Reporting Services, SQL Server, Power BI, Azure etc.
+Minha carreira no HIAE terminou no dia 30 de Junho de 2023.
+
 Busco por oportunidades de trabalho que me permita mostrar meu potencial, aprimorar meus conhecimentos e superar minhas expectativas e atender a expectativas dos empregadores.
 
 Abaixo estão algumas informações de contato, caso deseje fala comigo...
