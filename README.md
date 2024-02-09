@@ -26,3 +26,4 @@ Caso precise falar comigo, siga os contatos abaixo:
   </a>
 </div>
 
+![snake gif](https://github.com/LucasHerculanoAmaro/LucasHerculanoAmaro/blob/output/github-contribution-grid-snake.svg)
