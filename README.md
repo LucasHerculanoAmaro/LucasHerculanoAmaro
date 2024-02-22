@@ -4,7 +4,7 @@ Fico muito feliz de saber que você se interessou em visitar meu GitHub.
 
 Sou formado em Análise e Desenvolvimento de Sistemas e realizei o bootcamp Desenvolvimento Full Stack Java Jr.
 
-Sou professor de Tecnologia da Informação do projeto NOVOTECH da Sequencial, direcionado ao Ensino Médio Técnico da escola Euripedes Simões de Paula. 
+Sou professor de Tecnologia da Informação do projeto NOVOTEC da Sequencial, direcionado ao Ensino Médio Técnico da escola Euripedes Simões de Paula. 
 
 No período de Julho de 2022 até Junho de 2023 realizei meu estágio no Hospital Israelita Albert Einstein, no cargo de Analista de Dados em BI do Setor Big Data & Analytics. 
 Aqui aprendi a trabalhar com: Visual Studio Data Tools, Microsoft Server Reporting Services, SQL Server, Power BI, Azure etc.
