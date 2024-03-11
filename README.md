@@ -24,4 +24,10 @@ Caso precise falar comigo, siga os contatos abaixo:
   <a href="https://www.linkedin.com/in/lucas-amaro-5711611ab/" class="linkedin">
     <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
   </a>
+  <a href="https://lucasherculanoamaro.github.io/" target="_blank" class="portfolio">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/portfolio.png" alt="portfolio"/>
+  </a>
+  <a href="https://lucasherculanoamaro.github.io/assets/Curr%C3%ADculo_Lucas_Amaro.pdf" target="_blank" class="curriculo">
+    <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/resume.png" alt="resume"/>
+  </a>
 </div>
