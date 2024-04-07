@@ -1,9 +1,28 @@
+<style>
+  .h{
+    background-color: yellow;
+    transform: rotate(-2deg);
+  }
+  .e{
+    background-color: yellow;
+    transform: rotate(-2deg);
+  }
+  .l{
+    background-color: green;
+    transform: rotate(0deg);
+  }
+  .o{
+    background-color: greenyellow;
+    transform: rotate(-4deg);
+  }
+</style>
+  
 <div>
-  <img width="80" height="80" src="https://img.icons8.com/dotty/80/h.png" alt="h"/> 
-  <img width="80" height="80" src="https://img.icons8.com/dotty/80/e.png" alt="e"/> 
-  <img width="80" height="80" src="https://img.icons8.com/dotty/80/l.png"alt="l"/> 
-  <img width="80" height="80" src="https://img.icons8.com/dotty/80/l.png" alt="l"/>  
-  <img width="80" height="80" src="https://img.icons8.com/dotty/80/000000/o.png" alt="o"/>
+  <img class="h" width="80" height="80" src="https://img.icons8.com/dotty/80/h.png" alt="h"/> 
+  <img class="e" width="80" height="80" src="https://img.icons8.com/dotty/80/e.png" alt="e"/> 
+  <img class="l" width="80" height="80" src="https://img.icons8.com/dotty/80/l.png"alt="l"/> 
+  <img class="l" width="80" height="80" src="https://img.icons8.com/dotty/80/l.png" alt="l"/>  
+  <img class="o" width="80" height="80" src="https://img.icons8.com/dotty/80/000000/o.png" alt="o"/>
 </div>
 
 Fico muito feliz de saber que você se interessou em visitar meu GitHub.
