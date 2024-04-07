@@ -16,13 +16,8 @@ Gosto muito de trabalhar com Análise de Dados e Desenvolvimento de Sistemas, e 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHerculanoAmaro&theme=highcontrast&show_icons=true&count_private=true) 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHerculanoAmaro&layout=compact&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHerculanoAmaro&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 ##
 Caso precise falar comigo, siga os contatos abaixo: 
 
