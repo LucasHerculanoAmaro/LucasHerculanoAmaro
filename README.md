@@ -2,14 +2,14 @@
   <img 
     style="
       background-color: yellow;
-      transform: rotate(-6deg);" 
+      transform: rotate(-2deg);" 
       width="80" height="80" 
       src="https://img.icons8.com/dotty/80/h.png" 
       alt="h"
   /> 
   <img 
     style="
-      background-color: yellow;
+      background-color: green;
       transform: rotate(-6deg);" 
       width="80" height="80" 
       src="https://img.icons8.com/dotty/80/e.png" alt="e"
@@ -17,7 +17,7 @@
   <img
     style="
       background-color: yellow;
-      transform: rotate(-6deg);" 
+      transform: rotate(0deg);" 
       width="80" height="80" 
       src="https://img.icons8.com/dotty/80/l.png" 
       alt="l"
@@ -25,15 +25,15 @@
   <img
     style="
       background-color: yellow;
-      transform: rotate(-6deg);" 
+      transform: rotate(4deg);" 
       width="80" height="80" 
       src="https://img.icons8.com/dotty/80/l.png" 
       alt="l"
   />  
   <img 
     style="
-      background-color: yellow;
-      transform: rotate(-6deg);" 
+      background-color: red;
+      transform: rotate(2deg);" 
       width="80" height="80" 
       src="https://img.icons8.com/dotty/80/000000/o.png" 
       alt="o"
