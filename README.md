@@ -12,6 +12,20 @@ Aqui aprendi a trabalhar com: Visual Studio Data Tools, Microsoft Server Reporti
 Gosto muito de trabalhar com Análise de Dados e Desenvolvimento de Sistemas, e ser Professor me ajuda a fixar o que aprendo, auxiliando jovens a conhecer o promissor mundo da Tecnologia.
 
 ##
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+##
 Caso precise falar comigo, siga os contatos abaixo: 
 
 <div>
@@ -31,6 +45,8 @@ Caso precise falar comigo, siga os contatos abaixo:
     <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/resume.png" alt="resume"/>
   </a>
 </div>
+
+##
 
 ![snake gif](https://github.com/LucasHerculanoAmaro/LucasHerculanoAmaro/blob/output/github-contribution-grid-snake.gif)
 
