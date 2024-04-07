@@ -1,5 +1,5 @@
 <div>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/l.png" alt="l"/>
+  <img width="48" height="48" src="https://img.icons8.com/dotty/80/h.png" alt="h"/> <img width="48" height="48" src="https://img.icons8.com/dotty/80/e.png" alt="e"/> <img width="48" height="48" src="https://img.icons8.com/dotty/80/l.png" alt="l"/> <img width="48" height="48" src="https://img.icons8.com/dotty/80/l.png" alt="l"/> <img width="48" height="48" src="https://img.icons8.com/dotty/80/o.png" alt="o"/>
 </div>
 
 
