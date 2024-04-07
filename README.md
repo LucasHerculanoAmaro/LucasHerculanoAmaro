@@ -19,19 +19,19 @@ Gosto muito de trabalhar com Análise de Dados e Desenvolvimento de Sistemas, e 
 Caso precise falar comigo, siga os contatos abaixo: 
 
 <div>
-  <a href="https://wa.me/+5511956396531" target="_blank" class="whatsapp">
+  <a href="https://wa.me/+5511956396531" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>
   </a>
-  <a href="mailto:lucash.96@hotmail.com" target="_blank" class="outlook">
+  <a href="mailto:lucash.96@hotmail.com" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png" alt="microsoft-outlook-2019--v2"/>
   </a>
-  <a href="https://www.linkedin.com/in/lucas-amaro-5711611ab/" class="linkedin">
+  <a href="https://www.linkedin.com/in/lucas-amaro-5711611ab/">
     <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
   </a>
-  <a href="https://lucasherculanoamaro.github.io/" target="_blank" class="portfolio">
+  <a href="https://lucasherculanoamaro.github.io/" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/portfolio.png" alt="portfolio"/>
   </a>
-  <a href="https://lucasherculanoamaro.github.io/assets/Curr%C3%ADculo_Lucas_Amaro.pdf" target="_blank" class="curriculo">
+  <a href="https://lucasherculanoamaro.github.io/assets/Curr%C3%ADculo_Lucas_Amaro.pdf" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/resume.png" alt="resume"/>
   </a>
 </div>
