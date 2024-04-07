@@ -15,23 +15,7 @@ Gosto muito de trabalhar com Análise de Dados e Desenvolvimento de Sistemas, e 
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHerculanoAmaro&theme=highcontrast&show_icons=true&count_private=true)
 
-query {
-  user(login: "rjoydip") {
-    repositories(isFork: false, first: 100) {
-      nodes {
-        languages(first: 1) {
-          edges {
-            size
-            node {
-              color
-              name
-            }
-          }
-        }
-      }
-    }
-  }
-}
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHerculanoAmaro&layout=compact&theme=dracula)
 
 ##
 Caso precise falar comigo, siga os contatos abaixo: 
