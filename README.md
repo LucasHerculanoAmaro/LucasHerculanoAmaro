@@ -13,7 +13,7 @@ Gosto muito de trabalhar com Análise de Dados e Desenvolvimento de Sistemas, e 
 
 ##
 
-[[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiagarrigo&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/LucasHerculanoAmaro/LucasHerculanoAmaro)
+[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHerculanoAmaro&theme=highcontrast&show_icons=true&count_private=true)(https://github.com/LucasHerculanoAmaro/LucasHerculanoAmaro)
 
 
 ##
