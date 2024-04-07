@@ -1,3 +1,8 @@
+<div>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/l.png" alt="l"/>
+</div>
+
+
 Fico muito feliz de saber que você se interessou em visitar meu GitHub.
 
 Sou professor de Tecnologia da Informação e Técnico em Desenvolvimento de Sistemas do projeto NOVOTEC da Sequencial, direcionado ao Ensino Médio Técnico das escolas: Euripedes Simões de Paula e Eugenio Mariz de Oliveira Netto. 
