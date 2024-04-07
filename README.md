@@ -14,7 +14,7 @@ Gosto muito de trabalhar com Análise de Dados e Desenvolvimento de Sistemas, e 
 ##
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHerculanoAmaro&layout=compact&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHerculanoAmaro&theme=dark)](https://github.com/LucasHerculanoAmaro/github-readme-stats)
 
 ##
 Caso precise falar comigo, siga os contatos abaixo: 
