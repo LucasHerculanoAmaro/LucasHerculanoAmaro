@@ -16,6 +16,7 @@ Gosto muito de trabalhar com Análise de Dados e Desenvolvimento de Sistemas, e 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHerculanoAmaro&theme=highcontrast&show_icons=true&count_private=true) 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHerculanoAmaro&layout=compact&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHerculanoAmaro&hide_progress=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##
