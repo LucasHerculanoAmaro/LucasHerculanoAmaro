@@ -1,12 +1,7 @@
 <div>
-  <img 
-    style="
-      background-color: yellow;
-      transform: rotate(-4deg);" 
-      width="80" height="80" 
-      src="https://img.icons8.com/dotty/80/h.png" alt="h"/> 
+  <img width="80" height="80" src="https://img.icons8.com/dotty/80/h.png" alt="h"/> 
   <img width="80" height="80" src="https://img.icons8.com/dotty/80/e.png" alt="e"/> 
-  <img src="https://img.icons8.com/dotty/80/l.png"alt="l"/> 
+  <img width="80" height="80" src="https://img.icons8.com/dotty/80/l.png"alt="l"/> 
   <img width="80" height="80" src="https://img.icons8.com/dotty/80/l.png" alt="l"/>  
   <img width="80" height="80" src="https://img.icons8.com/dotty/80/000000/o.png" alt="o"/>
 </div>
