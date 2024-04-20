@@ -7,7 +7,7 @@
   <img class="o" width="80" height="80" src="https://img.icons8.com/dotty/80/000000/o.png" alt="o"/>
 </div>
 
-Fico muito feliz de saber que você se interessou em visitar meu GitHub.
+Bem vindo ao meu GitHub!
 
 Sou professor de Tecnologia da Informação e Técnico em Desenvolvimento de Sistemas do projeto NOVOTEC da Sequencial, direcionado ao Ensino Médio Técnico das escolas: Euripedes Simões de Paula e Eugenio Mariz de Oliveira Netto. 
 
