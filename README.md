@@ -9,10 +9,10 @@
 
 Bem vindo ao meu GitHub!
 
-Sou professor de Tecnologia da Informação e Técnico em Desenvolvimento de Sistemas do projeto NOVOTEC da Sequencial, direcionado ao Ensino Médio Técnico das escolas: Euripedes Simões de Paula e Eugenio Mariz de Oliveira Netto. 
+Sou professor de Tecnologia da Informação e Desenvolvimento de Sistemas do projeto NOVOTEC da Sequencial, direcionado ao Ensino Médio Técnico das escolas: Euripedes Simões de Paula, Eugenio Mariz de Oliveira Netto e Claudirene Aparecida Jose Da Silva.
 
 ##
-As minhas formações são: Análise e Desenvolvimento de Sistemas e Desenvolvimento Full Stack Java Jr.
+As minhas formações são: Análise e Desenvolvimento de Sistemas pela Unisa e Desenvolvimento Full Stack Java Jr pela Generation Brasil.
 
 ##
 No período de Julho de 2022 até Junho de 2023 realizei meu estágio no Hospital Israelita Albert Einstein, no cargo de Analista de Dados em BI do Setor Big Data & Analytics. 
