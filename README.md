@@ -1,12 +1,3 @@
-
-<div>
-  <img class="h" width="80" height="80" src="https://img.icons8.com/dotty/80/h.png" alt="h"/> 
-  <img class="e" width="80" height="80" src="https://img.icons8.com/dotty/80/e.png" alt="e"/> 
-  <img class="l" width="80" height="80" src="https://img.icons8.com/dotty/80/l.png"alt="l"/> 
-  <img class="l" width="80" height="80" src="https://img.icons8.com/dotty/80/l.png" alt="l"/>  
-  <img class="o" width="80" height="80" src="https://img.icons8.com/dotty/80/000000/o.png" alt="o"/>
-</div>
-
 Bem vindo ao meu GitHub!
 
 Sou professor de Tecnologia da Informação e Desenvolvimento de Sistemas do projeto NOVOTEC da Sequencial, direcionado ao Ensino Médio Técnico das escolas: Euripedes Simões de Paula, Eugenio Mariz de Oliveira Netto e Claudirene Aparecida Jose Da Silva.
