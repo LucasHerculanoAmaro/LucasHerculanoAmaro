@@ -3,20 +3,20 @@ Bem vindo ao meu GitHub!
 Sou professor de Tecnologia da Informação e Desenvolvimento de Sistemas do projeto NOVOTEC da Sequencial, direcionado ao Ensino Médio Técnico das escolas: Euripedes Simões de Paula, Eugenio Mariz de Oliveira Netto e Claudirene Aparecida Jose Da Silva.
 
 ##
-As minhas formações são: Análise e Desenvolvimento de Sistemas pela Unisa e Desenvolvimento Full Stack Java Jr pela Generation Brasil.
+Tenho formação em Análise e Desenvolvimento de Sistemas pela Unisa e Desenvolvimento Full Stack Java Jr pela Generation Brasil.
 
 ##
 No período de Julho de 2022 até Junho de 2023 realizei meu estágio no Hospital Israelita Albert Einstein, no cargo de Analista de Dados em BI do Setor Big Data & Analytics. 
 Aqui aprendi a trabalhar com: Visual Studio Data Tools, Microsoft Server Reporting Services, SQL Server, Power BI, Azure etc.
 
-Gosto muito de trabalhar com Análise de Dados e Desenvolvimento de Sistemas, e ser Professor me ajuda a fixar o que aprendo, auxiliando jovens a conhecer o promissor mundo da Tecnologia.
+Gostei muito de desempenhar atividades relacionadas com Análise de Dados e Desenvolvimento de Sistemas, e ser Professor me ajuda a fixar o que aprendo, auxiliando jovens a conhecer o promissor mundo da Tecnologia e cultivando o interesse dos jovens, focando no seu futuro profissional.
 
 ##
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHerculanoAmaro&layout=compact&theme=dark)
 
 ##
-Caso precise falar comigo, siga os contatos abaixo: 
+Siga os contatos abaixo: 
 
 <div>
   <a href="https://wa.me/+5511956396531" target="_blank">
