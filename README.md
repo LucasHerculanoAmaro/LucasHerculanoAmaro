@@ -1,15 +1,14 @@
-Bem vindo ao meu GitHub!
+Bem vindo ao meu GitHub... é um prazer te conhecer!
 
-Sou professor de Tecnologia da Informação e Desenvolvimento de Sistemas do projeto NOVOTEC da Sequencial, direcionado ao Ensino Médio Técnico das escolas: Euripedes Simões de Paula, Eugenio Mariz de Oliveira Netto e Claudirene Aparecida Jose Da Silva.
-
-##
-Tenho formação em Análise e Desenvolvimento de Sistemas pela Unisa e Desenvolvimento Full Stack Java Jr pela Generation Brasil.
+Sou professor de Tecnologia da Informação e Desenvolvimento de Sistemas do Grupo Educacional Sequencial, e sinto-me orgulhoso de ajudar a formar 54 estudantes no ano de 2024.
 
 ##
-No período de Julho de 2022 até Junho de 2023 realizei meu estágio no Hospital Israelita Albert Einstein, no cargo de Analista de Dados em BI do Setor Big Data & Analytics. 
-Aqui aprendi a trabalhar com: Visual Studio Data Tools, Microsoft Server Reporting Services, SQL Server, Power BI, Azure etc.
+Sou formado em Análise e Desenvolvimento de Sistemas pela UNISA (Universidade Santo Amaro) e tenho uma formação complementar Desenvolvimento Full Stack Java Jr pela Generation Brasil.
 
-Gostei muito de desempenhar atividades relacionadas com Análise de Dados e Desenvolvimento de Sistemas, e ser Professor me ajuda a fixar o que aprendo, auxiliando jovens a conhecer o promissor mundo da Tecnologia e cultivando o interesse dos jovens, focando no seu futuro profissional.
+##
+No período de Julho de 2022 até Junho de 2023 atuei no Hospital Israelita Albert Einstein, no cargo de Analista de Dados BI no núcleo Big Data & Analytics, onde aprendi a trabalhar com: Visual Studio Data Tools, ETL, Microsoft Server Reporting Services, SQL Server, Power BI, Azure etc.
+
+Gosto de desempenhar atividades relacionadas a tecnologia, como Análise de Dados ou Desenvolvimento de Sistemas, e ser Professor me ajuda a continuar estudando e, consequentemente, melhorar o meu ensino, auxiliando diversos estudantes a conhecer e se interessar pelo promissor mundo da tecnologia e trabalhando em seu futuro profissional.
 
 ##
 
