@@ -1,18 +1,10 @@
-Bem vindo ao meu GitHub... é um prazer te conhecer!
-
-Sou professor de Tecnologia da Informação e Desenvolvimento de Sistemas do Grupo Educacional Sequencial, e sinto-me orgulhoso de ajudar a formar 54 estudantes no ano de 2024.
+Sou Lucas Amaro, e sou um Desenvolvedor Full Stack Java.
 
 ##
-Sou formado em Análise e Desenvolvimento de Sistemas pela UNISA (Universidade Santo Amaro) e tenho uma formação complementar Desenvolvimento Full Stack Java Jr pela Generation Brasil.
+Sou formado em Análise e Desenvolvimento de Sistemas (UNISA - Universidade Santo Amaro, 2023), Desenvolvimento Full Stack Java Jr (Generation Brasil, 2022) e atualmente sou estudante da pós graduação Arquitetura e Desenvolvimento Java (FIAP - Faculdade de Informática e Administração Paulista).
 
 ##
-No período de Julho de 2022 até Junho de 2023 atuei no Hospital Israelita Albert Einstein, no cargo de Analista de Dados BI no núcleo Big Data & Analytics, onde aprendi a trabalhar com: Visual Studio Data Tools, ETL, Microsoft Server Reporting Services, SQL Server, Power BI, Azure etc.
-
-Gosto de desempenhar atividades relacionadas a tecnologia, como Análise de Dados ou Desenvolvimento de Sistemas, e ser Professor me ajuda a continuar estudando e, consequentemente, melhorar o meu ensino, auxiliando diversos estudantes a conhecer e se interessar pelo promissor mundo da tecnologia e trabalhando em seu futuro profissional.
-
-##
-
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHerculanoAmaro&layout=compact&theme=dark)
+Tenho experiência com Analise de Dados BI no Hospital Israelita Albert Einstein, e atualmente faço parte do quadro de profesores do Grupo Educacional Sequencial, sendo professor de Tecnologia da Informação e Desenvolvimento de Sistemas.
 
 ##
 Siga os contatos abaixo: 
