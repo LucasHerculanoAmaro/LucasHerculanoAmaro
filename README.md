@@ -68,9 +68,9 @@ Angular - HTML - Javascrit - CSS - Typescript - Consumo API Rest -
 
 <img width="24" height="24" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
 
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
 
-<img width="40" height="40" src="https://img.icons8.com/office/40/java-eclipse.png" alt="java-eclipse"/>
+<img width="48" height="48" src="https://img.icons8.com/office/40/java-eclipse.png" alt="java-eclipse"/>
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
 
