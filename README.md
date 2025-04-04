@@ -1,34 +1,82 @@
-Sou Lucas Amaro, e sou um Desenvolvedor Full Stack Java.
 
-##
-Sou formado em Análise e Desenvolvimento de Sistemas (UNISA - Universidade Santo Amaro, 2023), Desenvolvimento Full Stack Java Jr (Generation Brasil, 2022) e atualmente sou estudante da pós graduação Arquitetura e Desenvolvimento Java (FIAP - Faculdade de Informática e Administração Paulista).
+## 🚀 Sobre mim
+Eu sou uma Desenvolvedor Full Stack e muito interessado na linguagem Java. 
 
-##
-Tenho experiência com Analise de Dados BI no Hospital Israelita Albert Einstein, e atualmente faço parte do quadro de profesores do Grupo Educacional Sequencial, sendo professor de Tecnologia da Informação e Desenvolvimento de Sistemas.
+Meu primeiro contato com Java, Spring, MySQL e Angular foi em 2022, mas estou a disposição para aprender novas linguagens e suas ferramentas se necessário.
 
+A minha primeira oportunidade profissional na área de tecnologia foi em Julho de 2022, quando atuei como Analista de Dados BI.
+
+Em seguida, tive a oportunidade de atuar como Professor de Desenvolvimento de Sistemas, praticando e ensinando um total de 64 Alunos entre o ano de 2023 e 2025.
+
+No momento estou a procura de uma nova oportunidade, mas não estou parado no tempo. Sigo engajado em projetos pessoais e em grupo, relacionados a Análise de Dados e desenvolvimento Full Stack.
+
+## 👨‍🎓 Formação
+| Curso  | Local | Tipo | Status |
+| ------------- | ------------- | ------------- | -------------| 
+| Arquitetura e Desenvolvedor Java  | FIAP | Pós-Graduação |Cursando |
+| Análise e Desenvolvimento de Sistemas  | UNISA | Tecnólogo | Concluído |
+| Desenvolvedor Full Stack Java | Generation Brasil | Bootcamp | Concluído |
+
+
+## 👨‍💻 Profissional
+
+**Analista de Dados BI** - _Hospital Israelita Albert Einstein_
+
+**Linguagens e Ferramentas:**
+
+```
+Power BI - Reposrting Services - SQL Server - Visual Studio Data Tools
+```
+
+**Competencias:** 
+```
+Capacidade Analítica, Trabalho em Equipe, Comunicação, Compromisso, Resolução de Problemas, Treinamento. 
+```
 ##
-Siga os contatos abaixo: 
+**Professor de Desenvolvimento de Sistemas** - _Grupo Educacional Sequencial_ 
+
+**Linguagens e Ferramentas:**
+
+_Back-end_:
+```
+Node.js - Java - Spring Boot - API Rest - Swagger - MySQL Workbench - Postman - Eclipse IDE   
+```
+_Front-end_:
+```
+Angular - HTML - Javascrit - CSS - Typescript - Consumo API Rest -   
+```
+
+## ☎️ Contatos
+
+[WhatsApp](https://wa.me/+5511956396531)
+
+[E-mail](mailto:lucash.96@hotmail.com)
+
+[Linkedin](https://www.linkedin.com/in/lucas-amaro-5711611ab/)
+
+[Github Pages](https://lucasherculanoamaro.github.io/)
+
+
+## 	🤹‍♂️ Habilidades
 
 <div>
-  <a href="https://wa.me/+5511956396531" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>
-  </a>
-  <a href="mailto:lucash.96@hotmail.com" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png" alt="microsoft-outlook-2019--v2"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-amaro-5711611ab/">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
-  </a>
-  <a href="https://lucasherculanoamaro.github.io/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/portfolio.png" alt="portfolio"/>
-  </a>
-  <a href="https://lucasherculanoamaro.github.io/assets/Curr%C3%ADculo_Lucas_Amaro.pdf" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/resume.png" alt="resume"/>
-  </a>
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/cloud-function.png" alt="cloud-function"/>
+
+<img width="24" height="24" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
+
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
+
+<img width="40" height="40" src="https://img.icons8.com/office/40/java-eclipse.png" alt="java-eclipse"/>
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
+
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
+
 </div>
-
-##
-
-![snake gif](https://github.com/LucasHerculanoAmaro/LucasHerculanoAmaro/blob/output/github-contribution-grid-snake.gif)
-
 
