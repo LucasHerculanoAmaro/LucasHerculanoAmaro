@@ -50,11 +50,11 @@ Angular - HTML - Javascrit - CSS - Typescript - Consumo API Rest -
 
 [<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>](https://wa.me/+5511956396531)
 
-[E-mail](mailto:lucash.96@hotmail.com)
+[<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png" alt="microsoft-outlook-2019--v2"/>](mailto:lucash.96@hotmail.com)
 
-[Linkedin](https://www.linkedin.com/in/lucas-amaro-5711611ab/)
+[<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/lucas-amaro-5711611ab/)
 
-[Github Pages](https://lucasherculanoamaro.github.io/)
+[<img width="48" height="48" src="https://img.icons8.com/plasticine/100/domain.png" alt="domain"/>](https://lucasherculanoamaro.github.io/)
 
 
 ## 	🤹‍♂️ Habilidades
