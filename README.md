@@ -20,30 +20,45 @@ No momento estou a procura de uma nova oportunidade, mas não estou parado no te
 
 ## 👨‍💻 Profissional
 
-**Analista de Dados BI** - _Hospital Israelita Albert Einstein_
+**Analista de Sistemas** - _JT Solutions LTDA_
 
 **Linguagens e Ferramentas:**
-
-```
-Power BI - Reposrting Services - SQL Server - Visual Studio Data Tools
-```
-
-**Competencias:** 
-```
-Capacidade Analítica, Trabalho em Equipe, Comunicação, Compromisso, Resolução de Problemas, Treinamento. 
-```
-##
-**Professor de Desenvolvimento de Sistemas** - _Grupo Educacional Sequencial_ 
-
-**Linguagens e Ferramentas:**
-
 _Back-end_:
 ```
 Node.js - Java - Spring Boot - API Rest - Swagger - MySQL Workbench - Postman - Eclipse IDE   
 ```
 _Front-end_:
 ```
-Angular - HTML - Javascrit - CSS - Typescript - Consumo API Rest -   
+Angular - HTML - Javascrit - CSS - Typescript - Consumo API Rest
+```
+**Competências:**
+```
+Metodologia Ágil, Kanban, Trabalho em Equipe, Capacidade Analítca, Comunicação, Compromisso 
+```
+
+##
+
+**Professor de Desenvolvimento de Sistemas** - _Grupo Educacional Sequencial_ 
+**Linguagens e Ferramentas:**
+_Back-end_:
+```
+Node.js - Java - Spring Boot - API Rest - Swagger - MySQL Workbench - Postman - Eclipse IDE   
+```
+_Front-end_:
+```
+Angular - HTML - Javascrit - CSS - Typescript - Consumo API Rest
+```
+
+##
+
+**Analista de Dados BI** - _Hospital Israelita Albert Einstein_
+**Linguagens e Ferramentas:**
+```
+Power BI - Reporting Services - SQL Server - Visual Studio Data Tools
+```
+**Competencias:** 
+```
+Capacidade Analítica, Trabalho em Equipe, Comunicação, Compromisso, Resolução de Problemas, Treinamento, Metodologia Ágil, Kanban
 ```
 
 ## ☎️ Contatos
