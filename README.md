@@ -10,6 +10,8 @@ Em seguida, tive a oportunidade de atuar como Professor de Desenvolvimento de Si
 
 No momento estou a procura de uma nova oportunidade, mas não estou parado no tempo. Sigo engajado em projetos pessoais e em grupo, relacionados a Análise de Dados e desenvolvimento Full Stack.
 
+---
+
 ## 👨‍🎓 Formação
 | Curso  | Local | Tipo | Status |
 | ------------- | ------------- | ------------- | -------------| 
@@ -17,6 +19,7 @@ No momento estou a procura de uma nova oportunidade, mas não estou parado no te
 | Análise e Desenvolvimento de Sistemas  | UNISA | Tecnólogo | Concluído |
 | Desenvolvedor Full Stack Java | Generation Brasil | Bootcamp | Concluído |
 
+---
 
 ## 👨‍💻 Profissional
 
@@ -61,10 +64,13 @@ Power BI - Reporting Services - SQL Server - Visual Studio Data Tools
 Capacidade Analítica, Trabalho em Equipe, Comunicação, Compromisso, Resolução de Problemas, Treinamento, Metodologia Ágil, Kanban
 ```
 
+---
+
 ## ☎️ Contatos
 
 [<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>](https://wa.me/+5511956396531) [<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png" alt="microsoft-outlook-2019--v2"/>](mailto:lucash.96@hotmail.com) [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/lucas-amaro-5711611ab/) [<img width="48" height="48" src="https://img.icons8.com/plasticine/100/domain.png" alt="domain"/>](https://lucasherculanoamaro.github.io/)
 
+---
 
 ## 	🤹‍♂️ Habilidades
 
