@@ -1,14 +1,14 @@
 
 ## 🚀 Sobre mim
-Eu sou uma Desenvolvedor Full Stack e muito interessado na linguagem Java. 
+Eu sou uma **Desenvolvedor Java**/**Angular**. 
 
-Meu primeiro contato com Java, Spring, MySQL e Angular foi em 2022, mas estou a disposição para aprender novas linguagens e suas ferramentas se necessário.
+Meu primeiro contato desenvolvimento foi em 2022, onde aprendi a desenvolver com **Java**, **Spring Boot**, **MySQL** e **Angular**. Deste então, tenho aprendido diversas coisas novas.
 
-A minha primeira oportunidade profissional na área de tecnologia foi em Julho de 2022, quando atuei como Analista de Dados BI.
+Sou muito grato ao *Hospital Israelita Albert Einstein* pela minha primeira oportunidade profissional na área de tecnologia, atuando como **Analista de Dados BI**.
 
-Em seguida, tive a oportunidade de atuar como Professor de Desenvolvimento de Sistemas, praticando e ensinando um total de 64 Alunos entre o ano de 2023 e 2025.
+Também sou grato ao *Grupo Educacional Sequencial* pela minha segunda oportunidade profissional como **Professor de Desenvolvimento de Sistemas** e **Professor de Informática para Internet**. Tive o privilégio de auxiliar na educação de 64 novo programadores entre o ano de 2023 e 2025.
 
-No momento estou a procura de uma nova oportunidade, mas não estou parado no tempo. Sigo engajado em projetos pessoais e em grupo, relacionados a Análise de Dados e desenvolvimento Full Stack.
+Atualmente sou **Analista de Sistemas** na *JT Solutions*, e trabalho com análise e desenvolvimento de produtos para clientes de diversos seguimentos.
 
 ---
 
@@ -26,15 +26,16 @@ No momento estou a procura de uma nova oportunidade, mas não estou parado no te
 **Analista de Sistemas** - _JT Solutions LTDA_
 
 **Linguagens e Ferramentas:**
+
 _Back-end_:
-```
-Node.js - Java - Spring Boot - API Rest - Swagger - MySQL Workbench - Postman - Eclipse IDE   
-```
+
+    Node.js - Java - Spring Boot - API Rest - Swagger - MySQL Workbench - Postman - Eclipse IDE   
+
 _Front-end_:
-```
-Angular - HTML - Javascrit - CSS - Typescript - Consumo API Rest
-```
-**Competências:**
+
+    Angular - HTML - Javascrit - CSS - Typescript - Consumo API Rest
+
+_Competências_:
 ```
 Metodologia Ágil, Kanban, Trabalho em Equipe, Capacidade Analítca, Comunicação, Compromisso 
 ```
@@ -42,27 +43,28 @@ Metodologia Ágil, Kanban, Trabalho em Equipe, Capacidade Analítca, Comunicaç�
 ##
 
 **Professor de Desenvolvimento de Sistemas** - _Grupo Educacional Sequencial_ 
+
 **Linguagens e Ferramentas:**
+
 _Back-end_:
-```
-Node.js - Java - Spring Boot - API Rest - Swagger - MySQL Workbench - Postman - Eclipse IDE   
-```
+
+    Node.js - Java - Spring Boot - API Rest - Swagger - MySQL Workbench - Postman - Eclipse IDE   
+
 _Front-end_:
-```
-Angular - HTML - Javascrit - CSS - Typescript - Consumo API Rest
-```
+
+    Angular - HTML - Javascrit - CSS - Typescript - Consumo API Rest
 
 ##
 
 **Analista de Dados BI** - _Hospital Israelita Albert Einstein_
+
 **Linguagens e Ferramentas:**
-```
-Power BI - Reporting Services - SQL Server - Visual Studio Data Tools
-```
+
+    Power BI - Reporting Services - SQL Server - Visual Studio Data Tools
+
 **Competencias:** 
-```
-Capacidade Analítica, Trabalho em Equipe, Comunicação, Compromisso, Resolução de Problemas, Treinamento, Metodologia Ágil, Kanban
-```
+
+    Capacidade Analítica, Trabalho em Equipe, Comunicação, Compromisso, Resolução de Problemas, Treinamento, Metodologia Ágil, Kanban
 
 ---
 
@@ -96,4 +98,3 @@ Capacidade Analítica, Trabalho em Equipe, Comunicação, Compromisso, Resoluç�
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 
 </div>
-
