@@ -1,6 +1,6 @@
 
 ## 🚀 Sobre mim
-Eu sou uma **Desenvolvedor Java**/**Angular**. 
+Eu sou uma **Desenvolvedor Full Stack Java**/**Angular**. 
 
 Meu primeiro contato desenvolvimento foi em 2022, onde aprendi a desenvolver com **Java**, **Spring Boot**, **MySQL** e **Angular**. Deste então, tenho aprendido diversas coisas novas.
 
@@ -8,7 +8,7 @@ Sou muito grato ao *Hospital Israelita Albert Einstein* pela minha primeira opor
 
 Também sou grato ao *Grupo Educacional Sequencial* pela minha segunda oportunidade profissional como **Professor de Desenvolvimento de Sistemas** e **Professor de Informática para Internet**. Tive o privilégio de auxiliar na educação de 64 novo programadores entre o ano de 2023 e 2025.
 
-Atualmente sou **Analista de Sistemas** na *JT Solutions*, e trabalho com análise e desenvolvimento de produtos para clientes de diversos seguimentos.
+Atualmente sou **Analista de Sistemas** na *Solutions*, e trabalho com análise e desenvolvimento de produtos para clientes de diversos seguimentos.
 
 ---
 
@@ -29,15 +29,15 @@ Atualmente sou **Analista de Sistemas** na *JT Solutions*, e trabalho com análi
 
 _Back-end_:
 
-    Node.js - Java - Spring Boot - API Rest - Swagger - MySQL Workbench - Postman - Eclipse IDE   
+    Node.js - Java - Spring Boot - API REST - Swagger - MySQL/H2  - Postman - Eclipse IDE - IntelliJ 
 
 _Front-end_:
 
-    Angular - HTML - Javascrit - CSS - Typescript - Consumo API Rest
+    Angular - HTML - Javascrit - CSS - Typescript - Figma
 
 _Competências_:
 ```
-Metodologia Ágil, Kanban, Trabalho em Equipe, Capacidade Analítca, Comunicação, Compromisso 
+Metodologia Ágil, Kanban, CI/CD, Trabalho em Equipe, Capacidade Analítca, Comunicação, Compromisso 
 ```
 
 ##
@@ -48,11 +48,11 @@ Metodologia Ágil, Kanban, Trabalho em Equipe, Capacidade Analítca, Comunicaç�
 
 _Back-end_:
 
-    Node.js - Java - Spring Boot - API Rest - Swagger - MySQL Workbench - Postman - Eclipse IDE   
+    Node.js - Java - Spring Boot - API REST - Swagger - MySQL/SQL Server - Postman - Eclipse IDE - Apache Tomcat
 
 _Front-end_:
 
-    Angular - HTML - Javascrit - CSS - Typescript - Consumo API Rest
+    Angular - HTML - Javascrit - CSS - Typescript - Figma
 
 ##
 
@@ -60,7 +60,7 @@ _Front-end_:
 
 **Linguagens e Ferramentas:**
 
-    Power BI - Reporting Services - SQL Server - Visual Studio Data Tools
+    Power BI - SSRS (SQL Server Reporting Services) - SSIS (SQL Server Integration Services) - SSAS (SQL Server Analysis Services) - SSRS (SQL Server Reporting Services) - SSMS (SQL Server Management Studio) - Visual Studio Data Tools - ETL
 
 **Competencias:** 
 
