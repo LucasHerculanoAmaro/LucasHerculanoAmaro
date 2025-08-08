@@ -99,6 +99,6 @@ _Front-end_:
 
 <img width="48" height="48" src="https://junit.org/assets/img/junit5-logo.png" alt="git">
 
-<img width="68" height="68" src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="git">
+<img width="100" height="68" src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="git">
 
 </div>
