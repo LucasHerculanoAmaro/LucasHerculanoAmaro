@@ -97,4 +97,6 @@ _Front-end_:
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 
+<img width="48" height="48" src="https://junit.org/assets/img/junit5-logo.png" alt="git">
+
 </div>
