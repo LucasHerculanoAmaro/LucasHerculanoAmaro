@@ -29,7 +29,7 @@ Atualmente sou **Analista de Sistemas** na *Solutions*, e trabalho com análise 
 
 _Back-end_:
 
-    Node.js - Java - Spring Boot - API REST - Swagger - MySQL/H2  - Postman - Eclipse IDE - IntelliJ 
+    Node.js - Java - Spring Boot - API REST - Swagger - MySQL/PostgreSQL/H2 - Postman - Eclipse IDE - IntelliJ 
 
 _Front-end_:
 
@@ -37,7 +37,7 @@ _Front-end_:
 
 _Competências_:
 ```
-Metodologia Ágil, Kanban, CI/CD, Trabalho em Equipe, Capacidade Analítca, Comunicação, Compromisso 
+Metodologia Ágil, Kanban, CI/CD, SEO, JUnit, IT, Inglês, Trabalho em Equipe, Capacidade Analítca, Comunicação, Compromisso 
 ```
 
 ##
